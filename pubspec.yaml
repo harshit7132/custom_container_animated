@@ -1,10 +1,10 @@
 name: custom_container_animated
 description: "A Flutter package to create animated containers with various customizable animations."
 version: 0.0.1
-homepage: https://github.com/harshit7132/custom_container_animated.git # Add your homepage URL or a GitHub repository link
+homepage: https://github.com/harshit7132/custom_container_animated  # Your repository URL
 
 environment:
-  sdk: ">=2.17.0 <3.0.0" # Adjusted to a more general SDK constraint for compatibility
+  sdk: ">=2.17.0 <3.0.0"  # Flutter SDK constraints
   flutter: ">=1.17.0"
 
 dependencies:
@@ -16,18 +16,14 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^4.0.0
 
-# For information on the generic Dart part of this file, see
-# the following page: https://dart.dev/tools/pub/pubspec
+license: MIT  # Specify the license type
 
-# The following section is specific to Flutter packages.
 flutter:
-
-# If you have any assets (images, etc.), you can list them here.
-# For now, no assets are specified.
+# If your package uses assets, list them here.
 # assets:
 #   - images/a_dot_burr.jpeg
 
-# Fonts (if you are using custom fonts, list them here)
+# If your package uses fonts, list them here.
 # fonts:
 #   - family: CustomFont
 #     fonts:
