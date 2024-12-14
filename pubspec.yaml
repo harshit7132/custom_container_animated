@@ -1,7 +1,7 @@
 name: custom_container_animated
 description: "A Flutter package to create animated containers with various customizable animations."
 version: 0.0.1
-homepage: https://yourhomepage.com # Add your homepage URL or a GitHub repository link
+homepage: https://github.com/harshit7132/custom_container_animated.git # Add your homepage URL or a GitHub repository link
 
 environment:
   sdk: ">=2.17.0 <3.0.0" # Adjusted to a more general SDK constraint for compatibility
